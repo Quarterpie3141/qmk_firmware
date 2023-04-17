@@ -1,6 +1,6 @@
 # urc75
 
-![urc75](https://imgur.com/a/z8LUGDC)
+![urc75](https://i.imgur.com/U9aTkaX.png)
 
 A modular keyboard made by and for URC members, more submodules arriving soon:)
 
