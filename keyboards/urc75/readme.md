@@ -1,12 +1,12 @@
 # urc75
 
-![urc75](imgur.com image replace me!)
+![urc75](https://imgur.com/rb8xBer)
 
-*A short description of the keyboard/project*
+A modular keyboard made by and for URC members, more submodules arriving soon:)
 
 * Keyboard Maintainer: [Prashan Wijesinghe](https://github.com/Quarterpie3141)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: URC75 pcb v1.10 onwards, rp2040
+* Hardware Availability: Hardware is given on a case by case basis, head on down to URC and talk to one of out committe members to get started
 
 Make example for this keyboard (after setting up your build environment):
 
